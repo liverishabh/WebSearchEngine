@@ -1,0 +1,1215 @@
+{ structure: 
+( stack_datastructure_wiki, 233, 178 )( stack_datastructure_wiki, 122, 92 )( stack_datastructure_wiki, 103, 79 )( stack_cprogramming, 115, 90 )( stack_cprogramming, 100, 80 )( stack_cprogramming, 18, 15 )( stack_cprogramming, 4, 4 )( stacks_and_queues, 80, 65 )( stacks_and_queues, 25, 20 )( stacks_and_queues, 15, 13 )( stacks_and_queues, 7, 5 )( cmu_stack, 230, 175 )( cmu_stack, 165, 128 )( cmu_stack, 107, 86 )( cmu_stack, 59, 46 )( cmu_stack, 8, 6 )( studytonight, 79, 53 )( studytonight, 17, 12 )( geeks_quiz, 6, 4 )
+{ implementation: 
+( stack_cprogramming, 68, 57 )( stacks_and_queues, 88, 72 )( geeks_quiz, 253, 202 )( geeks_quiz, 176, 135 )
+{ check: 
+( cmu_stack, 404, 304 )
+{ initialization: 
+( stackoverflow, 24, 24 )
+{ basic: 
+( stacks_and_queues, 87, 71 )( stacks_and_queues, 43, 34 )( stacks_and_queues, 5, 3 )( geeks_quiz, 37, 30 )
+{ clean: 
+( stack_datastructure_wiki, 342, 260 )
+{ reach: 
+( cmu_stack, 347, 256 )
+{ child: 
+( stackoverflow, 18, 18 )
+{ being: 
+( stack_cprogramming, 75, 62 )
+{ clang: 
+( stackoverflow, 27, 26 )
+{ place: 
+( stacks_and_queues, 33, 26 )
+{ fiera: 
+( stackmagazine, 15, 14 )
+{ local: 
+( cmu_stack, 393, 295 )
+{ space: 
+( stack_datastructure_wiki, 161, 121 )( cmu_stack, 389, 293 )
+{ calls: 
+( stack_cprogramming, 107, 85 )( stack_cprogramming, 41, 35 )( stack_cprogramming, 35, 29 )
+{ hanoi: 
+( geeks_quiz, 223, 176 )
+{ makes: 
+( stack_cprogramming, 274, 208 )
+{ eight: 
+( stackmagazine, 14, 13 )
+{ model: 
+( auckland_stack, 69, 56 )
+{ since: 
+( stack_datastructure_wiki, 410, 313 )( stacks_and_queues, 108, 87 )
+{ which: 
+( stack_datastructure_wiki, 454, 346 )( stack_datastructure_wiki, 398, 303 )( stack_datastructure_wiki, 216, 164 )( stack_datastructure_wiki, 47, 37 )( stack_datastructure_wiki, 38, 31 )( stack_cprogramming, 38, 32 )( stack_oracle, 127, 99 )( cmu_stack, 253, 187 )( geeks_quiz, 148, 112 )( geeks_quiz, 132, 101 )( geeks_quiz, 81, 62 )( geeks_quiz, 13, 10 )( geeks_quiz, 7, 5 )
+{ taken: 
+( stack_cprogramming, 93, 75 )
+{ means: 
+( stack_datastructure_wiki, 317, 240 )( stack_datastructure_wiki, 254, 193 )( stack_datastructure_wiki, 217, 165 )( cmu_stack, 379, 285 )
+{ deque: 
+( stack_oracle, 138, 109 )( stack_oracle, 122, 95 )
+{ depth: 
+( stack_cprogramming, 308, 238 )
+{ stack: 
+( stack_datastructure_wiki, 459, 350 )( stack_datastructure_wiki, 441, 336 )( stack_datastructure_wiki, 436, 332 )( stack_datastructure_wiki, 409, 312 )( stack_datastructure_wiki, 395, 301 )( stack_datastructure_wiki, 382, 291 )( stack_datastructure_wiki, 363, 275 )( stack_datastructure_wiki, 350, 265 )( stack_datastructure_wiki, 336, 256 )( stack_datastructure_wiki, 326, 247 )( stack_datastructure_wiki, 294, 223 )( stack_datastructure_wiki, 289, 219 )( stack_datastructure_wiki, 267, 203 )( stack_datastructure_wiki, 256, 195 )( stack_datastructure_wiki, 228, 175 )( stack_datastructure_wiki, 223, 170 )( stack_datastructure_wiki, 208, 157 )( stack_datastructure_wiki, 204, 154 )( stack_datastructure_wiki, 191, 143 )( stack_datastructure_wiki, 170, 128 )( stack_datastructure_wiki, 153, 116 )( stack_datastructure_wiki, 142, 107 )( stack_datastructure_wiki, 130, 97 )( stack_datastructure_wiki, 71, 56 )( stack_datastructure_wiki, 14, 12 )( stack_datastructure_wiki, 1, 1 )( stack_cprogramming, 248, 189 )( stack_cprogramming, 226, 175 )( stack_cprogramming, 208, 161 )( stack_cprogramming, 199, 152 )( stack_cprogramming, 190, 144 )( stack_cprogramming, 181, 138 )( stack_cprogramming, 160, 120 )( stack_cprogramming, 157, 118 )( stack_cprogramming, 139, 107 )( stack_cprogramming, 110, 87 )( stack_cprogramming, 88, 72 )( stack_cprogramming, 13, 12 )( stack_cprogramming, 2, 2 )( stack_oracle, 140, 111 )( stack_oracle, 116, 91 )( stack_oracle, 100, 78 )( stack_oracle, 85, 69 )( stack_oracle, 76, 64 )( stack_oracle, 68, 59 )( stack_oracle, 46, 42 )( stack_oracle, 27, 26 )( stack_oracle, 18, 18 )( stack_oracle, 12, 12 )( stack_oracle, 8, 8 )( stackoverflow, 1, 1 )( stacklighting, 14, 14 )( stacklighting, 7, 7 )( stacklighting, 2, 2 )( stackmagazine, 25, 23 )( stackmagazine, 1, 1 )( stacks_and_queues, 155, 122 )( stacks_and_queues, 147, 117 )( stacks_and_queues, 139, 111 )( stacks_and_queues, 130, 105 )( stacks_and_queues, 118, 94 )( stacks_and_queues, 91, 73 )( stacks_and_queues, 71, 56 )( stacks_and_queues, 56, 45 )( stacks_and_queues, 41, 32 )( stacks_and_queues, 21, 18 )( stacks_and_queues, 2, 2 )( cmu_stack, 412, 310 )( cmu_stack, 400, 300 )( cmu_stack, 386, 290 )( cmu_stack, 372, 278 )( cmu_stack, 306, 226 )( cmu_stack, 285, 210 )( cmu_stack, 275, 202 )( cmu_stack, 263, 193 )( cmu_stack, 256, 188 )( cmu_stack, 240, 180 )( cmu_stack, 238, 179 )( cmu_stack, 225, 172 )( cmu_stack, 204, 155 )( cmu_stack, 188, 144 )( cmu_stack, 174, 135 )( cmu_stack, 159, 124 )( cmu_stack, 157, 122 )( cmu_stack, 149, 118 )( cmu_stack, 138, 110 )( cmu_stack, 115, 94 )( studytonight, 176, 128 )( studytonight, 166, 120 )( studytonight, 154, 111 )( studytonight, 148, 107 )( studytonight, 120, 85 )( studytonight, 117, 82 )( studytonight, 105, 73 )( studytonight, 94, 66 )( studytonight, 75, 51 )( studytonight, 66, 45 )( studytonight, 59, 40 )( studytonight, 41, 29 )( studytonight, 1, 1 )( auckland_stack, 72, 57 )( auckland_stack, 62, 49 )( auckland_stack, 43, 33 )( auckland_stack, 33, 25 )( auckland_stack, 11, 8 )( auckland_stack, 9, 6 )( geeks_quiz, 257, 204 )( geeks_quiz, 192, 148 )( geeks_quiz, 184, 141 )( geeks_quiz, 159, 121 )( geeks_quiz, 117, 88 )( geeks_quiz, 108, 81 )( geeks_quiz, 87, 65 )( geeks_quiz, 71, 54 )( geeks_quiz, 53, 41 )( geeks_quiz, 50, 39 )( geeks_quiz, 43, 34 )( geeks_quiz, 1, 1 )
+{ plate: 
+( stack_datastructure_wiki, 358, 272 )( auckland_stack, 75, 58 )( geeks_quiz, 147, 111 )( geeks_quiz, 131, 100 )
+{ class: 
+( stack_oracle, 135, 106 )( stack_oracle, 32, 30 )( stack_oracle, 19, 19 )( stack_oracle, 11, 11 )
+{ there: 
+( stack_datastructure_wiki, 355, 270 )( stacks_and_queues, 120, 96 )( stacks_and_queues, 113, 91 )( studytonight, 177, 129 )( geeks_quiz, 177, 136 )( geeks_quiz, 110, 83 )
+{ light: 
+( stacklighting, 11, 11 )
+{ takes: 
+( stacks_and_queues, 32, 25 )
+{ three: 
+( stacks_and_queues, 123, 98 )( geeks_quiz, 36, 29 )
+{ paper: 
+( cmu_stack, 80, 63 )
+{ apart: 
+( auckland_stack, 20, 16 )
+{ small: 
+( stack_datastructure_wiki, 237, 181 )
+{ below: 
+( stack_datastructure_wiki, 366, 277 )
+{ given: 
+( cmu_stack, 272, 199 )
+{ given: 
+( studytonight, 163, 117 )
+{ third: 
+( stack_cprogramming, 50, 42 )( stack_cprogramming, 43, 36 )
+{ about: 
+( stack_cprogramming, 278, 212 )( stack_cprogramming, 217, 168 )( stack_cprogramming, 66, 56 )
+{ where: 
+( stack_cprogramming, 197, 150 )( stacks_and_queues, 61, 48 )( stacks_and_queues, 26, 21 )( cmu_stack, 357, 265 )( cmu_stack, 60, 47 )( cmu_stack, 9, 7 )
+{ wired: 
+( stacklighting, 23, 23 )
+{ occur: 
+( stack_datastructure_wiki, 433, 330 )( stack_datastructure_wiki, 115, 87 )
+{ order: 
+( stack_datastructure_wiki, 274, 208 )( stack_datastructure_wiki, 271, 206 )( stack_datastructure_wiki, 261, 199 )( stack_cprogramming, 125, 98 )( stack_cprogramming, 105, 84 )( stack_cprogramming, 29, 24 )( stacks_and_queues, 73, 58 )( cmu_stack, 90, 72 )( cmu_stack, 69, 56 )( studytonight, 27, 20 )( geeks_quiz, 175, 134 )( geeks_quiz, 79, 60 )( geeks_quiz, 19, 14 )( geeks_quiz, 11, 8 )
+{ their: 
+( stack_datastructure_wiki, 276, 209 )
+{ often: 
+( stack_datastructure_wiki, 450, 343 )
+{ value: 
+( stackoverflow, 23, 23 )
+{ think: 
+( stack_cprogramming, 71, 59 )( stack_cprogramming, 65, 55 )( cmu_stack, 327, 242 )( cmu_stack, 201, 154 )
+{ sense: 
+( stack_cprogramming, 275, 209 )( stack_cprogramming, 247, 188 )
+{ books: 
+( stacks_and_queues, 60, 47 )
+{ books: 
+( cmu_stack, 206, 156 )
+{ infix: 
+( studytonight, 186, 137 )
+{ infix: 
+( geeks_quiz, 196, 151 )
+{ queen: 
+( geeks_quiz, 244, 196 )
+{ awful: 
+( stack_cprogramming, 290, 222 )
+{ allow: 
+( stack_oracle, 38, 36 )
+{ array: 
+( cmu_stack, 2, 2 )
+{ array: 
+( geeks_quiz, 186, 143 )
+{ cover: 
+( geeks_quiz, 251, 201 )
+{ state: 
+( stack_datastructure_wiki, 215, 163 )( stack_datastructure_wiki, 179, 135 )( studytonight, 140, 101 )( studytonight, 127, 91 )
+{ today: 
+( stackmagazine, 26, 24 )
+{ items: 
+( stack_datastructure_wiki, 219, 167 )( stack_datastructure_wiki, 198, 150 )( stack_oracle, 107, 84 )( stacks_and_queues, 31, 24 )( geeks_quiz, 73, 56 )
+{ other: 
+( stack_cprogramming, 241, 183 )( stack_cprogramming, 81, 67 )( studytonight, 179, 130 )( auckland_stack, 44, 34 )( geeks_quiz, 231, 184 )
+{ predefined: 
+( studytonight, 10, 7 )
+{ those: 
+( stack_datastructure_wiki, 283, 214 )
+{ stock: 
+( geeks_quiz, 226, 179 )
+{ 1: 
+( stacks_and_queues, 133, 107 )
+{ using: 
+( stack_datastructure_wiki, 63, 50 )( stack_cprogramming, 280, 214 )( cmu_stack, 411, 309 )( cmu_stack, 398, 299 )( geeks_quiz, 187, 144 )( geeks_quiz, 185, 142 )
+{ maintained: 
+( stack_cprogramming, 25, 21 )
+{ month: 
+( stackmagazine, 11, 10 )
+{ 2: 
+( stacks_and_queues, 141, 113 )
+{ 3: 
+( stacks_and_queues, 149, 119 )
+{ first: 
+( stack_datastructure_wiki, 296, 224 )( stack_datastructure_wiki, 19, 16 )( stack_cprogramming, 309, 239 )( stack_cprogramming, 267, 201 )( stack_cprogramming, 176, 134 )( stack_cprogramming, 173, 131 )( stack_cprogramming, 165, 124 )( stack_cprogramming, 91, 73 )( stack_cprogramming, 61, 51 )( stack_oracle, 102, 79 )( stack_oracle, 24, 23 )( stacklighting, 9, 9 )( stacks_and_queues, 99, 79 )( cmu_stack, 131, 104 )( studytonight, 82, 56 )( geeks_quiz, 139, 104 )( geeks_quiz, 29, 23 )( geeks_quiz, 25, 20 )
+{ commercial: 
+( stacklighting, 4, 4 )
+{ lower: 
+( stack_datastructure_wiki, 280, 212 )
+{ usual: 
+( stack_oracle, 48, 44 )
+{ point: 
+( cmu_stack, 367, 274 )( cmu_stack, 362, 269 )
+{ terms: 
+( stack_datastructure_wiki, 311, 236 )
+{ every: 
+( stack_cprogramming, 126, 99 )( stackmagazine, 10, 9 )( studytonight, 28, 21 )
+{ 7: 
+( stack_oracle, 3, 3 )
+{ preference: 
+( stack_oracle, 132, 104 )
+{ stems: 
+( stack_datastructure_wiki, 58, 46 )
+{ considered: 
+( stack_datastructure_wiki, 173, 130 )( stack_datastructure_wiki, 98, 75 )
+{ prior: 
+( cmu_stack, 84, 66 )
+{ store: 
+( cmu_stack, 369, 276 )
+{ empty: 
+( stack_datastructure_wiki, 461, 351 )( stack_datastructure_wiki, 443, 337 )( stack_datastructure_wiki, 210, 158 )( stack_datastructure_wiki, 203, 153 )( stack_oracle, 78, 65 )( cmu_stack, 243, 182 )( studytonight, 145, 105 )( geeks_quiz, 89, 66 )
+{ linux: 
+( stackoverflow, 9, 9 )
+{ tools: 
+( stack_cprogramming, 296, 228 )
+{ tower: 
+( geeks_quiz, 221, 175 )
+{ originated: 
+( stack_datastructure_wiki, 329, 250 )
+{ techcrunch: 
+( stacklighting, 19, 19 )
+{ definition: 
+( cmu_stack, 235, 178 )
+{ collection: 
+( stack_datastructure_wiki, 109, 83 )( stack_datastructure_wiki, 44, 35 )( stack_datastructure_wiki, 30, 24 )
+{ posts: 
+( geeks_quiz, 260, 207 )
+{ determines: 
+( auckland_stack, 59, 47 )
+{ arraydeque: 
+( stack_oracle, 142, 113 )
+{ displaying: 
+( stacks_and_queues, 150, 120 )
+{ parameters: 
+( cmu_stack, 391, 294 )
+{ particular: 
+( stack_cprogramming, 124, 97 )( stack_cprogramming, 28, 23 )( cmu_stack, 68, 55 )( studytonight, 26, 19 )( geeks_quiz, 10, 7 )
+{ understand: 
+( geeks_quiz, 106, 80 )
+{ abstractly: 
+( stack_datastructure_wiki, 106, 81 )
+{ restricted: 
+( stack_datastructure_wiki, 231, 176 )
+{ algorithms: 
+( cmu_stack, 46, 36 )( geeks_quiz, 219, 173 )
+{ sequential: 
+( stack_datastructure_wiki, 108, 82 )( cmu_stack, 105, 84 )( cmu_stack, 74, 60 )( cmu_stack, 56, 43 )
+{ processing: 
+( cmu_stack, 388, 292 )
+{ equivalent: 
+( stack_datastructure_wiki, 93, 71 )
+{ completely: 
+( studytonight, 144, 104 )( studytonight, 131, 94 )
+{ variations: 
+( stacks_and_queues, 116, 93 )
+{ internally: 
+( cmu_stack, 397, 298 )
+{ operations: 
+( stack_datastructure_wiki, 385, 294 )( stack_datastructure_wiki, 377, 287 )( stack_datastructure_wiki, 252, 191 )( stack_datastructure_wiki, 240, 183 )( stack_datastructure_wiki, 114, 86 )( stack_datastructure_wiki, 65, 51 )( stack_datastructure_wiki, 36, 29 )( stack_cprogramming, 286, 219 )( stack_oracle, 117, 92 )( stack_oracle, 52, 47 )( stack_oracle, 36, 34 )( stacks_and_queues, 124, 99 )( cmu_stack, 141, 113 )( auckland_stack, 19, 15 )( geeks_quiz, 38, 31 )( geeks_quiz, 15, 11 )
+{ conversion: 
+( studytonight, 185, 136 )( geeks_quiz, 199, 154 )
+{ traversals: 
+( geeks_quiz, 225, 178 )
+{ a: 
+( stack_datastructure_wiki, 227, 174 )( stack_datastructure_wiki, 192, 144 )( stack_datastructure_wiki, 141, 106 )( stack_oracle, 108, 85 )( stacks_and_queues, 1, 1 )( cmu_stack, 224, 171 )( cmu_stack, 196, 150 )( cmu_stack, 158, 123 )( cmu_stack, 114, 93 )( cmu_stack, 70, 57 )( cmu_stack, 51, 40 )( cmu_stack, 20, 17 )( auckland_stack, 67, 54 )( auckland_stack, 10, 7 )
+{ consistent: 
+( stack_oracle, 112, 88 )
+{ c: 
+( stack_cprogramming, 6, 6 )
+{ represents: 
+( stack_oracle, 20, 20 )
+{ e: 
+( stack_oracle, 16, 16 )( stack_oracle, 13, 13 )( geeks_quiz, 145, 110 )
+{ responsive: 
+( stacklighting, 10, 10 )
+{ destructor: 
+( auckland_stack, 25, 19 )
+{ expression: 
+( studytonight, 184, 135 )
+{ i: 
+( geeks_quiz, 144, 109 )
+{ m: 
+( stack_datastructure_wiki, 306, 232 )
+{ n: 
+( geeks_quiz, 243, 195 )
+{ bottommost: 
+( geeks_quiz, 154, 117 )
+{ called: 
+( stack_cprogramming, 221, 171 )( stacks_and_queues, 94, 75 )( stacks_and_queues, 37, 30 )( cmu_stack, 109, 88 )( studytonight, 118, 83 )
+{ throughout: 
+( stacks_and_queues, 84, 68 )
+{ structural: 
+( cmu_stack, 234, 177 )
+{ s: 
+( stack_cprogramming, 193, 147 )( stack_cprogramming, 46, 39 )( cmu_stack, 402, 302 )
+{ adding: 
+( stack_cprogramming, 118, 93 )
+{ adding: 
+( studytonight, 20, 15 )
+{ loaded: 
+( stack_datastructure_wiki, 335, 255 )
+{ placed: 
+( stack_datastructure_wiki, 345, 262 )
+{ placed: 
+( geeks_quiz, 151, 115 )
+{ become: 
+( stack_datastructure_wiki, 371, 282 )
+{ choice: 
+( cmu_stack, 383, 288 )( cmu_stack, 366, 273 )( cmu_stack, 361, 268 )
+{ previously: 
+( stack_datastructure_wiki, 196, 148 )
+{ accept: 
+( stack_datastructure_wiki, 163, 123 )
+{ device: 
+( stackoverflow, 11, 11 )
+{ sturctures: 
+( cmu_stack, 113, 92 )
+{ braces: 
+( cmu_stack, 407, 306 )
+{ implementations: 
+( stack_datastructure_wiki, 449, 342 )( stack_datastructure_wiki, 380, 290 )( stack_cprogramming, 306, 237 )( stack_oracle, 126, 98 )( stacks_and_queues, 119, 95 )
+{ allain: 
+( stack_cprogramming, 11, 10 )
+{ access: 
+( stack_datastructure_wiki, 137, 103 )( cmu_stack, 316, 234 )( cmu_stack, 163, 126 )( cmu_stack, 111, 90 )( cmu_stack, 75, 61 )( cmu_stack, 57, 44 )( cmu_stack, 41, 32 )( cmu_stack, 25, 21 )( cmu_stack, 6, 4 )
+{ delete: 
+( studytonight, 100, 70 )
+{ search: 
+( stack_cprogramming, 310, 240 )( stack_oracle, 83, 68 )( cmu_stack, 50, 39 )
+{ oracle: 
+( stack_oracle, 1, 1 )
+{ linked: 
+( cmu_stack, 52, 41 )( geeks_quiz, 188, 145 )
+{ places: 
+( geeks_quiz, 205, 160 )
+{ design: 
+( stack_datastructure_wiki, 303, 230 )
+{ javase: 
+( stack_oracle, 2, 2 )
+{ linear: 
+( stack_datastructure_wiki, 101, 77 )( stacks_and_queues, 14, 12 )( geeks_quiz, 4, 2 )
+{ second: 
+( stack_cprogramming, 56, 47 )
+{ vtable: 
+( stackoverflow, 39, 38 )
+{ public: 
+( stack_oracle, 10, 10 )
+{ make_shared: 
+( stackoverflow, 21, 21 )
+{ recent: 
+( stack_datastructure_wiki, 82, 63 )( cmu_stack, 319, 236 )
+{ either: 
+( stack_datastructure_wiki, 194, 146 )( cmu_stack, 242, 181 )
+{ either: 
+( stack_cprogramming, 236, 180 )
+{ method: 
+( stack_oracle, 81, 66 )( stack_oracle, 70, 60 )( stack_oracle, 59, 52 )
+{ kernel: 
+( stackoverflow, 10, 10 )
+{ random: 
+( cmu_stack, 40, 31 )( cmu_stack, 24, 20 )( cmu_stack, 5, 3 )
+{ repair: 
+( stackoverflow, 6, 6 )
+{ period: 
+( geeks_quiz, 163, 123 )
+{ binary: 
+( cmu_stack, 49, 38 )
+{ knight: 
+( geeks_quiz, 236, 189 )
+{ enough: 
+( stack_datastructure_wiki, 160, 120 )
+{ rather: 
+( stack_cprogramming, 58, 49 )
+{ itself: 
+( stack_cprogramming, 101, 81 )
+{ popped: 
+( stack_datastructure_wiki, 68, 54 )( auckland_stack, 87, 66 )( geeks_quiz, 75, 57 )
+{ pushed: 
+( stack_datastructure_wiki, 168, 127 )( stack_datastructure_wiki, 86, 66 )( auckland_stack, 81, 62 )( auckland_stack, 39, 30 )( geeks_quiz, 84, 63 )
+{ number: 
+( stack_datastructure_wiki, 238, 182 )
+{ plates: 
+( stack_datastructure_wiki, 343, 261 )( stack_datastructure_wiki, 338, 257 )( stacks_and_queues, 58, 46 )( auckland_stack, 79, 61 )( geeks_quiz, 123, 92 )
+{ common: 
+( stack_cprogramming, 282, 215 )( stack_cprogramming, 16, 13 )
+{ common: 
+( auckland_stack, 68, 55 )
+{ simple: 
+( stack_cprogramming, 112, 88 )( studytonight, 15, 10 )( geeks_quiz, 120, 90 )
+{ parent: 
+( stackoverflow, 16, 16 )
+{ eighty: 
+( stackmagazine, 13, 12 )
+{ mainly: 
+( geeks_quiz, 33, 27 )
+{ series: 
+( stack_datastructure_wiki, 73, 58 )( cmu_stack, 324, 240 )
+{ things: 
+( stack_cprogramming, 21, 17 )( stacks_and_queues, 76, 61 )
+{ matter: 
+( stackmagazine, 4, 4 )
+{ remove: 
+( stacks_and_queues, 75, 60 )( cmu_stack, 209, 159 )
+{ prefix: 
+( studytonight, 191, 142 )
+{ nature: 
+( stack_datastructure_wiki, 246, 188 )
+{ should: 
+( stack_oracle, 128, 100 )
+{ letter: 
+( cmu_stack, 278, 205 )( cmu_stack, 276, 203 )( studytonight, 169, 123 )( studytonight, 167, 121 )
+{ allows: 
+( stack_cprogramming, 117, 92 )( studytonight, 19, 14 )
+{ within: 
+( stack_datastructure_wiki, 88, 68 )
+{ spring: 
+( stack_datastructure_wiki, 334, 254 )
+{ vector: 
+( stack_oracle, 40, 37 )( stack_oracle, 33, 31 )( stack_oracle, 15, 15 )
+{ follow: 
+( geeks_quiz, 173, 132 )
+{ useful: 
+( stack_cprogramming, 211, 162 )
+{ others: 
+( cmu_stack, 39, 30 )
+{ insert: 
+( studytonight, 89, 62 )
+{ inheritance: 
+( stackoverflow, 41, 39 )
+{ serves: 
+( stack_datastructure_wiki, 27, 22 )
+{ pushes: 
+( stack_datastructure_wiki, 75, 59 )
+{ proper: 
+( stack_cprogramming, 104, 83 )
+{ turing: 
+( stack_datastructure_wiki, 307, 233 )
+{ comfortable: 
+( stacklighting, 18, 18 )
+{ independent: 
+( stackmagazine, 8, 7 )
+{ fundamental: 
+( stack_cprogramming, 253, 191 )
+{ sudoku: 
+( geeks_quiz, 247, 198 )
+{ solver: 
+( geeks_quiz, 248, 199 )
+{ entity: 
+( stack_datastructure_wiki, 165, 124 )
+{ simply: 
+( cmu_stack, 378, 284 )( geeks_quiz, 170, 129 )
+{ implemented: 
+( stack_datastructure_wiki, 145, 110 )( cmu_stack, 409, 307 )( auckland_stack, 14, 10 )
+{ return: 
+( stack_cprogramming, 244, 186 )( stack_cprogramming, 52, 44 )
+{ theoretical: 
+( stack_cprogramming, 293, 225 )
+{ residential: 
+( stacklighting, 3, 3 )
+{ application: 
+( cmu_stack, 287, 212 )( cmu_stack, 260, 192 )( cmu_stack, 257, 189 )( geeks_quiz, 255, 203 )( geeks_quiz, 232, 185 )( geeks_quiz, 190, 147 )
+{ application: 
+( studytonight, 151, 110 )( studytonight, 146, 106 )
+{ practically: 
+( geeks_quiz, 109, 82 )
+{ unbury: 
+( stack_datastructure_wiki, 314, 238 )
+{ syntax: 
+( cmu_stack, 403, 303 )
+{ c++: 
+( stack_cprogramming, 8, 7 )( stackoverflow, 35, 34 )
+{ represented: 
+( stacks_and_queues, 16, 14 )
+{ programming: 
+( stacks_and_queues, 85, 69 )
+{ fastcompany: 
+( stacklighting, 21, 21 )
+{ demonstrate: 
+( stacks_and_queues, 102, 82 )
+{ illustrated: 
+( stacks_and_queues, 47, 38 )
+{ be: 
+( stack_datastructure_wiki, 413, 315 )( stack_datastructure_wiki, 225, 172 )( stack_datastructure_wiki, 175, 132 )( stack_datastructure_wiki, 167, 126 )( stack_datastructure_wiki, 144, 109 )( stack_cprogramming, 183, 139 )( stack_cprogramming, 145, 112 )( stack_oracle, 129, 101 )( stack_oracle, 42, 39 )( stacks_and_queues, 127, 102 )( stacks_and_queues, 46, 37 )( stacks_and_queues, 10, 8 )( cmu_stack, 168, 131 )( cmu_stack, 87, 69 )( cmu_stack, 64, 51 )( cmu_stack, 35, 27 )( cmu_stack, 13, 11 )( studytonight, 137, 98 )( studytonight, 124, 88 )( studytonight, 47, 34 )( geeks_quiz, 234, 187 )( geeks_quiz, 169, 128 )( geeks_quiz, 142, 107 )( geeks_quiz, 95, 71 )( geeks_quiz, 61, 47 )( geeks_quiz, 21, 16 )
+{ requirement: 
+( stack_datastructure_wiki, 96, 73 )
+{ ai: 
+( stack_cprogramming, 304, 235 )
+{ if: 
+( stack_datastructure_wiki, 439, 335 )( stack_datastructure_wiki, 206, 156 )( stack_datastructure_wiki, 151, 115 )( studytonight, 141, 102 )( geeks_quiz, 85, 64 )( geeks_quiz, 51, 40 )
+{ an: 
+( stack_datastructure_wiki, 429, 326 )( stack_datastructure_wiki, 390, 298 )
+{ an: 
+( cmu_stack, 1, 1 )
+{ terminology: 
+( stack_cprogramming, 283, 216 )
+{ do: 
+( stack_cprogramming, 198, 151 )( cmu_stack, 334, 246 )
+{ as: 
+( stack_datastructure_wiki, 446, 339 )( stack_datastructure_wiki, 315, 239 )( stack_datastructure_wiki, 125, 95 )( stack_datastructure_wiki, 99, 76 )( stack_datastructure_wiki, 28, 23 )( stack_cprogramming, 298, 230 )( stack_cprogramming, 203, 156 )( stack_cprogramming, 74, 61 )( stack_oracle, 57, 51 )( stack_oracle, 55, 49 )( stack_oracle, 44, 41 )( stacks_and_queues, 109, 88 )( stacks_and_queues, 54, 44 )( stacks_and_queues, 13, 11 )( auckland_stack, 47, 37 )
+{ 1946: 
+( stack_datastructure_wiki, 299, 227 )
+{ accesed: 
+( cmu_stack, 65, 52 )
+{ at: 
+( stack_datastructure_wiki, 117, 89 )( stack_cprogramming, 152, 116 )( stack_oracle, 62, 55 )( stacks_and_queues, 34, 27 )( cmu_stack, 364, 271 )( cmu_stack, 176, 137 )( studytonight, 112, 78 )( studytonight, 54, 38 )( auckland_stack, 52, 41 )( geeks_quiz, 203, 158 )( geeks_quiz, 152, 116 )( geeks_quiz, 134, 102 )
+{ in: 
+( stack_datastructure_wiki, 434, 331 )( stack_datastructure_wiki, 378, 288 )( stack_datastructure_wiki, 339, 258 )( stack_datastructure_wiki, 300, 228 )( stack_datastructure_wiki, 298, 226 )( stack_datastructure_wiki, 268, 204 )( stack_datastructure_wiki, 222, 169 )( stack_datastructure_wiki, 201, 152 )( stack_datastructure_wiki, 176, 133 )( stack_datastructure_wiki, 72, 57 )( stack_datastructure_wiki, 18, 15 )( stack_datastructure_wiki, 10, 9 )( stack_cprogramming, 268, 202 )( stack_cprogramming, 245, 187 )( stack_cprogramming, 222, 172 )( stack_cprogramming, 172, 130 )( stack_cprogramming, 166, 125 )( stack_cprogramming, 122, 96 )( stack_cprogramming, 95, 77 )( stack_cprogramming, 39, 33 )( stack_cprogramming, 26, 22 )( stack_cprogramming, 5, 5 )( stack_oracle, 131, 103 )( stack_oracle, 23, 22 )( stacks_and_queues, 98, 78 )( stacks_and_queues, 72, 57 )( cmu_stack, 322, 239 )( cmu_stack, 304, 225 )( cmu_stack, 292, 215 )( cmu_stack, 135, 108 )( cmu_stack, 130, 103 )( cmu_stack, 97, 79 )( cmu_stack, 89, 71 )( cmu_stack, 67, 54 )( cmu_stack, 17, 14 )( studytonight, 138, 99 )( studytonight, 125, 89 )( studytonight, 81, 55 )( studytonight, 24, 18 )( auckland_stack, 65, 52 )( auckland_stack, 7, 5 )( geeks_quiz, 258, 205 )( geeks_quiz, 240, 193 )( geeks_quiz, 217, 171 )( geeks_quiz, 213, 167 )( geeks_quiz, 157, 120 )( geeks_quiz, 128, 97 )( geeks_quiz, 80, 61 )( geeks_quiz, 76, 58 )( geeks_quiz, 48, 38 )( geeks_quiz, 41, 33 )( geeks_quiz, 30, 24 )( geeks_quiz, 24, 19 )( geeks_quiz, 12, 9 )
+{ subroutines: 
+( stack_datastructure_wiki, 323, 244 )
+{ by: 
+( stack_datastructure_wiki, 330, 251 )( stack_oracle, 120, 94 )( stacks_and_queues, 48, 39 )( stacks_and_queues, 17, 15 )( cmu_stack, 410, 308 )( cmu_stack, 299, 220 )( cmu_stack, 277, 204 )( studytonight, 168, 122 )
+{ by: 
+( stack_cprogramming, 9, 8 )
+{ ve: 
+( stack_cprogramming, 205, 158 )
+{ we: 
+( stacks_and_queues, 110, 89 )( cmu_stack, 100, 81 )( geeks_quiz, 249, 200 )
+{ it: 
+( stack_datastructure_wiki, 425, 323 )( stack_datastructure_wiki, 406, 310 )( stack_datastructure_wiki, 367, 278 )( stack_datastructure_wiki, 244, 186 )( stack_datastructure_wiki, 211, 159 )( stack_cprogramming, 279, 213 )( stack_cprogramming, 272, 206 )( stack_cprogramming, 132, 103 )( stack_cprogramming, 45, 38 )( stack_oracle, 104, 81 )( stack_oracle, 93, 74 )( stack_oracle, 30, 28 )( stackmagazine, 22, 20 )( stacks_and_queues, 105, 84 )( stacks_and_queues, 78, 63 )( cmu_stack, 245, 183 )( studytonight, 142, 103 )( studytonight, 129, 93 )( studytonight, 34, 25 )( studytonight, 12, 9 )( auckland_stack, 66, 53 )( auckland_stack, 57, 45 )( geeks_quiz, 167, 126 )( geeks_quiz, 91, 68 )( geeks_quiz, 57, 44 )
+{ no: 
+( stack_datastructure_wiki, 218, 166 )( stack_oracle, 106, 83 )
+{ on: 
+( stack_datastructure_wiki, 346, 263 )( stack_datastructure_wiki, 287, 218 )( stack_datastructure_wiki, 243, 185 )( stack_oracle, 66, 58 )( stackmagazine, 21, 19 )( stacks_and_queues, 129, 104 )( cmu_stack, 370, 277 )( cmu_stack, 221, 169 )( studytonight, 36, 27 )
+{ on: 
+( stack_cprogramming, 134, 105 )( stack_cprogramming, 77, 64 )
+{ constructor: 
+( auckland_stack, 23, 18 )
+{ so: 
+( stack_cprogramming, 191, 145 )( cmu_stack, 108, 87 )( geeks_quiz, 166, 125 )
+{ to: 
+( stack_datastructure_wiki, 370, 281 )( stack_datastructure_wiki, 332, 253 )( stack_datastructure_wiki, 272, 207 )( stack_datastructure_wiki, 224, 171 )( stack_datastructure_wiki, 174, 131 )( stack_datastructure_wiki, 166, 125 )( stack_datastructure_wiki, 162, 122 )( stack_datastructure_wiki, 146, 111 )( stack_datastructure_wiki, 138, 104 )( stack_datastructure_wiki, 124, 94 )( stack_datastructure_wiki, 94, 72 )( stack_datastructure_wiki, 42, 34 )( stack_cprogramming, 303, 234 )( stack_cprogramming, 276, 210 )( stack_cprogramming, 261, 198 )( stack_cprogramming, 243, 185 )( stack_cprogramming, 213, 164 )( stack_cprogramming, 179, 137 )( stack_cprogramming, 163, 122 )( stack_cprogramming, 86, 71 )( stack_cprogramming, 70, 58 )( stack_cprogramming, 64, 54 )( stack_cprogramming, 54, 46 )( stack_cprogramming, 24, 20 )( stack_oracle, 133, 105 )( stack_oracle, 82, 67 )( stack_oracle, 71, 61 )( stack_oracle, 60, 53 )( stack_oracle, 41, 38 )( stackoverflow, 38, 37 )( stackoverflow, 31, 30 )( stackoverflow, 17, 17 )( stackoverflow, 5, 5 )( stackmagazine, 24, 22 )( stacks_and_queues, 101, 81 )( stacks_and_queues, 74, 59 )( cmu_stack, 358, 266 )( cmu_stack, 356, 264 )( cmu_stack, 342, 252 )( cmu_stack, 315, 233 )( cmu_stack, 274, 201 )( cmu_stack, 265, 194 )( cmu_stack, 200, 153 )( cmu_stack, 183, 142 )( cmu_stack, 127, 101 )( cmu_stack, 93, 75 )( cmu_stack, 91, 73 )( cmu_stack, 44, 34 )( studytonight, 190, 141 )( studytonight, 187, 138 )( studytonight, 165, 119 )( studytonight, 156, 112 )( studytonight, 136, 97 )( studytonight, 123, 87 )( studytonight, 99, 69 )( studytonight, 88, 61 )( auckland_stack, 83, 64 )( auckland_stack, 31, 24 )( geeks_quiz, 197, 152 )( geeks_quiz, 181, 139 )( geeks_quiz, 172, 131 )( geeks_quiz, 141, 106 )( geeks_quiz, 105, 79 )( geeks_quiz, 94, 70 )( geeks_quiz, 60, 46 )
+{ because: 
+( stack_datastructure_wiki, 234, 179 )
+{ created: 
+( stack_oracle, 103, 80 )
+{ created: 
+( cmu_stack, 396, 297 )
+{ up: 
+( stack_datastructure_wiki, 369, 280 )( stack_cprogramming, 288, 221 )
+{ changes: 
+( cmu_stack, 303, 224 )
+{ science: 
+( stack_datastructure_wiki, 12, 11 )( stack_cprogramming, 295, 227 )( stack_cprogramming, 257, 194 )
+{ calling: 
+( stack_datastructure_wiki, 319, 241 )
+{ choices: 
+( cmu_stack, 375, 281 )
+{ canteen: 
+( geeks_quiz, 129, 98 )
+{ stacked: 
+( stack_cprogramming, 76, 63 )( geeks_quiz, 124, 93 )
+{ bounded: 
+( stack_datastructure_wiki, 149, 113 )( studytonight, 9, 6 )
+{ already: 
+( stack_datastructure_wiki, 354, 269 )( stack_cprogramming, 206, 159 )
+{ keeping: 
+( cmu_stack, 300, 221 )
+{ careers: 
+( stacklighting, 5, 5 )
+{ ordered: 
+( studytonight, 69, 46 )
+{ subcase: 
+( cmu_stack, 103, 83 )
+{ limited: 
+( cmu_stack, 162, 125 )( cmu_stack, 110, 89 )
+{ allowed: 
+( cmu_stack, 143, 114 )
+{ allowed: 
+( studytonight, 111, 77 )
+{ treated: 
+( stack_oracle, 43, 40 )
+{ element: 
+( stack_datastructure_wiki, 403, 307 )( stack_datastructure_wiki, 83, 64 )( stack_datastructure_wiki, 67, 53 )( stack_datastructure_wiki, 51, 40 )( stack_datastructure_wiki, 41, 33 )( stack_cprogramming, 149, 114 )( stack_cprogramming, 142, 109 )( stack_cprogramming, 129, 101 )( cmu_stack, 321, 238 )( cmu_stack, 62, 49 )( cmu_stack, 11, 9 )( studytonight, 102, 71 )( studytonight, 51, 36 )( studytonight, 44, 31 )( studytonight, 31, 23 )
+{ objects: 
+( stack_oracle, 29, 27 )( studytonight, 65, 44 )
+{ objects: 
+( cmu_stack, 120, 96 )
+{ analogy: 
+( stack_datastructure_wiki, 331, 252 )( cmu_stack, 198, 152 )
+{ contain: 
+( stack_datastructure_wiki, 159, 119 )
+{ example: 
+( stack_datastructure_wiki, 391, 299 )( cmu_stack, 48, 37 )( geeks_quiz, 121, 91 )
+{ example: 
+( stack_oracle, 137, 108 )
+{ concept: 
+( stacks_and_queues, 44, 35 )
+{ feature: 
+( geeks_quiz, 212, 166 )
+{ stacker: 
+( auckland_stack, 78, 60 )
+{ integer: 
+( stack_oracle, 143, 114 )( stack_oracle, 139, 110 )
+{ remains: 
+( geeks_quiz, 156, 119 )
+{ helpful: 
+( cmu_stack, 197, 151 )
+{ backtracking: 
+( cmu_stack, 377, 283 )( cmu_stack, 307, 227 )
+{ backtracking: 
+( geeks_quiz, 235, 188 )
+{ another: 
+( stack_cprogramming, 36, 30 )( cmu_stack, 286, 211 )( auckland_stack, 1, 1 )( geeks_quiz, 127, 96 )
+{ similar: 
+( studytonight, 72, 48 )
+{ problem: 
+( geeks_quiz, 245, 197 )( geeks_quiz, 238, 191 )( geeks_quiz, 230, 183 )( geeks_quiz, 228, 181 )
+{ reveals: 
+( stack_datastructure_wiki, 195, 147 )
+{ removed: 
+( stack_datastructure_wiki, 360, 273 )( stack_datastructure_wiki, 264, 201 )( stack_datastructure_wiki, 226, 173 )( cmu_stack, 171, 133 )( cmu_stack, 125, 99 )( studytonight, 48, 35 )( geeks_quiz, 143, 108 )
+{ removed: 
+( stack_cprogramming, 187, 142 )( stack_cprogramming, 146, 113 )
+{ waiting: 
+( stack_cprogramming, 239, 182 )
+{ parsing: 
+( studytonight, 183, 134 )
+{ methods: 
+( auckland_stack, 45, 35 )( auckland_stack, 26, 20 )
+{ forward: 
+( geeks_quiz, 209, 164 )
+{ typical: 
+( cmu_stack, 71, 58 )( cmu_stack, 21, 18 )
+{ natural: 
+( stack_datastructure_wiki, 260, 198 )
+{ whether: 
+( stack_datastructure_wiki, 457, 349 )( auckland_stack, 60, 48 )
+{ whether: 
+( stack_oracle, 74, 63 )
+{ accomplished: 
+( cmu_stack, 298, 219 )
+{ editors: 
+( cmu_stack, 294, 217 )( geeks_quiz, 207, 162 )
+{ extends: 
+( stack_oracle, 31, 29 )( stack_oracle, 14, 14 )
+{ perform: 
+( stackoverflow, 22, 22 )
+{ encyclopedia: 
+( stack_datastructure_wiki, 9, 8 )
+{ reverse: 
+( stack_datastructure_wiki, 270, 205 )( cmu_stack, 266, 195 )( studytonight, 157, 113 )
+{ longest: 
+( stack_datastructure_wiki, 291, 220 )
+{ longest: 
+( geeks_quiz, 162, 122 )
+{ popping: 
+( cmu_stack, 380, 286 )
+{ pushing: 
+( stack_datastructure_wiki, 351, 266 )
+{ process: 
+( cmu_stack, 311, 229 )
+{ removes: 
+( stack_datastructure_wiki, 183, 139 )( stack_datastructure_wiki, 48, 38 )( cmu_stack, 190, 146 )( geeks_quiz, 66, 51 )
+{ present: 
+( stack_datastructure_wiki, 221, 168 )
+{ thought: 
+( stacks_and_queues, 12, 10 )
+{ letters: 
+( cmu_stack, 282, 208 )
+{ letters: 
+( studytonight, 173, 126 )
+{ variety: 
+( stack_cprogramming, 271, 205 )
+{ storing: 
+( auckland_stack, 4, 3 )
+{ follows: 
+( geeks_quiz, 8, 6 )
+{ various: 
+( stacks_and_queues, 115, 92 )
+{ symbols: 
+( geeks_quiz, 195, 150 )
+{ additionally: 
+( stack_datastructure_wiki, 131, 98 )
+{ express: 
+( stack_cprogramming, 262, 199 )
+{ isempty: 
+( auckland_stack, 58, 46 )
+{ written: 
+( stackoverflow, 33, 32 )
+{ postfix: 
+( studytonight, 189, 140 )( studytonight, 188, 139 )
+{ results: 
+( stack_datastructure_wiki, 200, 151 )
+{ history: 
+( stack_datastructure_wiki, 292, 221 )
+{ returns: 
+( stack_datastructure_wiki, 456, 348 )( auckland_stack, 49, 39 )
+{ without: 
+( stack_datastructure_wiki, 404, 308 )( auckland_stack, 55, 43 )
+{ topmost: 
+( geeks_quiz, 102, 76 )
+{ add: 
+( cmu_stack, 217, 166 )
+{ support: 
+( cmu_stack, 413, 311 )
+{ conceptually: 
+( stack_cprogramming, 108, 86 )
+{ gcc: 
+( stackoverflow, 25, 25 )
+{ representing: 
+( stack_cprogramming, 20, 16 )
+{ can: 
+( stack_datastructure_wiki, 432, 329 )( stack_datastructure_wiki, 412, 314 )( stack_cprogramming, 144, 111 )( stacks_and_queues, 126, 101 )( stacks_and_queues, 63, 50 )( stacks_and_queues, 45, 36 )( stacks_and_queues, 9, 7 )( cmu_stack, 216, 165 )( cmu_stack, 208, 158 )( cmu_stack, 167, 130 )( cmu_stack, 63, 50 )( cmu_stack, 34, 26 )( cmu_stack, 12, 10 )( studytonight, 46, 33 )( geeks_quiz, 233, 186 )( geeks_quiz, 168, 127 )
+{ big: 
+( stack_cprogramming, 195, 148 )
+{ egg: 
+( stackmagazine, 20, 18 )
+{ end: 
+( stack_datastructure_wiki, 119, 91 )( stacks_and_queues, 36, 29 )( cmu_stack, 350, 258 )( studytonight, 115, 81 )
+{ jdk: 
+( stack_oracle, 9, 9 )
+{ far: 
+( stack_oracle, 92, 73 )
+{ all: 
+( stacks_and_queues, 83, 67 )
+{ all: 
+( cmu_stack, 373, 279 )( cmu_stack, 301, 222 )( cmu_stack, 83, 65 )
+{ api: 
+( stack_oracle, 5, 5 )
+{ rec: 
+( stackmagazine, 17, 16 )
+{ off: 
+( stack_datastructure_wiki, 69, 55 )( stack_cprogramming, 94, 76 )( stacks_and_queues, 69, 55 )( auckland_stack, 88, 67 )
+{ has: 
+( stack_datastructure_wiki, 383, 292 )( auckland_stack, 63, 50 )( geeks_quiz, 149, 113 )
+{ etc: 
+( studytonight, 192, 143 )
+{ see: 
+( stacks_and_queues, 112, 90 )
+{ web: 
+( geeks_quiz, 214, 168 )
+{ get: 
+( cmu_stack, 92, 74 )( geeks_quiz, 100, 75 )
+{ the: 
+( stack_datastructure_wiki, 324, 245 )( stack_datastructure_wiki, 293, 222 )( stack_datastructure_wiki, 245, 187 )( stack_datastructure_wiki, 180, 136 )( stack_datastructure_wiki, 55, 43 )( stack_cprogramming, 175, 133 )( stack_cprogramming, 12, 11 )( stack_cprogramming, 1, 1 )( stack_oracle, 47, 43 )( stack_oracle, 17, 17 )( stacklighting, 8, 8 )( stackmagazine, 16, 15 )( stackmagazine, 12, 11 )( stacks_and_queues, 86, 70 )( stacks_and_queues, 42, 33 )( cmu_stack, 258, 190 )( studytonight, 149, 108 )( geeks_quiz, 130, 99 )( geeks_quiz, 72, 55 )( geeks_quiz, 18, 13 )
+{ one: 
+( stack_datastructure_wiki, 365, 276 )( stack_datastructure_wiki, 118, 90 )( stack_cprogramming, 92, 74 )( stack_cprogramming, 84, 69 )( stack_cprogramming, 62, 52 )( stacks_and_queues, 35, 28 )( studytonight, 114, 80 )( geeks_quiz, 140, 105 )( geeks_quiz, 126, 95 )
+{ consequently: 
+( stack_cprogramming, 158, 119 )
+{ illustration: 
+( cmu_stack, 72, 59 )( cmu_stack, 22, 19 )
+{ let: 
+( stacklighting, 13, 13 )
+{ may: 
+( stack_datastructure_wiki, 327, 248 )( stack_datastructure_wiki, 143, 108 )( stack_datastructure_wiki, 135, 101 )( geeks_quiz, 20, 15 )
+{ for: 
+( stack_cprogramming, 30, 25 )
+{ for: 
+( stack_oracle, 136, 107 )
+{ accessed: 
+( cmu_stack, 14, 12 )
+{ rat: 
+( geeks_quiz, 239, 192 )
+{ any: 
+( stack_datastructure_wiki, 353, 268 )
+{ pip: 
+( stacks_and_queues, 156, 123 )
+{ new: 
+( stack_datastructure_wiki, 373, 283 )( stack_oracle, 141, 112 )( cmu_stack, 219, 167 )( studytonight, 90, 63 )
+{ but: 
+( stack_datastructure_wiki, 205, 155 )( cmu_stack, 354, 262 )
+{ non: 
+( stack_datastructure_wiki, 375, 285 )
+{ std: 
+( stackoverflow, 20, 20 )
+{ backward: 
+( geeks_quiz, 211, 165 )
+{ set: 
+( stack_oracle, 113, 89 )( stacks_and_queues, 53, 43 )
+{ who: 
+( stack_datastructure_wiki, 308, 234 )
+{ how: 
+( stack_cprogramming, 218, 169 )( stackoverflow, 4, 4 )( cmu_stack, 333, 245 )( geeks_quiz, 104, 78 )
+{ how: 
+( stack_oracle, 91, 72 )
+{ pop: 
+( stack_datastructure_wiki, 447, 340 )( stack_datastructure_wiki, 417, 318 )( stack_datastructure_wiki, 389, 297 )( stack_datastructure_wiki, 249, 189 )( stack_datastructure_wiki, 193, 145 )( stack_datastructure_wiki, 181, 137 )( stack_datastructure_wiki, 113, 85 )( stack_datastructure_wiki, 46, 36 )( stack_oracle, 51, 46 )( stacks_and_queues, 148, 118 )( cmu_stack, 281, 207 )( cmu_stack, 189, 145 )( cmu_stack, 151, 119 )( studytonight, 172, 125 )( studytonight, 96, 67 )( auckland_stack, 34, 26 )( geeks_quiz, 65, 50 )
+{ lot: 
+( stack_cprogramming, 291, 223 )
+{ language: 
+( stack_cprogramming, 254, 192 )( cmu_stack, 387, 291 )
+{ its: 
+( stack_oracle, 125, 97 )
+{ disagree: 
+( stackoverflow, 28, 27 )
+{ not: 
+( stack_datastructure_wiki, 427, 324 )( stack_datastructure_wiki, 158, 118 )
+{ way: 
+( stack_cprogramming, 212, 163 )( stack_cprogramming, 97, 78 )( stack_cprogramming, 63, 53 )( cmu_stack, 338, 249 )( auckland_stack, 2, 2 )
+{ way: 
+( stacks_and_queues, 104, 83 )
+{ top: 
+( stack_datastructure_wiki, 437, 333 )( stack_datastructure_wiki, 401, 305 )( stack_datastructure_wiki, 393, 300 )( stack_datastructure_wiki, 374, 284 )( stack_datastructure_wiki, 347, 264 )( stack_datastructure_wiki, 188, 142 )( stack_datastructure_wiki, 140, 105 )( stack_datastructure_wiki, 127, 96 )( stack_cprogramming, 154, 117 )( stack_cprogramming, 136, 106 )( stack_cprogramming, 78, 65 )( stack_oracle, 97, 76 )( stack_oracle, 64, 56 )( stacks_and_queues, 67, 53 )( stacks_and_queues, 38, 31 )( cmu_stack, 249, 185 )( cmu_stack, 223, 170 )( cmu_stack, 212, 161 )( cmu_stack, 195, 149 )( cmu_stack, 185, 143 )( cmu_stack, 178, 138 )( studytonight, 119, 84 )( studytonight, 56, 39 )( studytonight, 38, 28 )( auckland_stack, 90, 68 )( auckland_stack, 85, 65 )( auckland_stack, 54, 42 )( auckland_stack, 48, 38 )( geeks_quiz, 136, 103 )
+{ our: 
+( stack_cprogramming, 215, 166 )
+{ accesses: 
+( stacks_and_queues, 106, 85 )
+{ critical: 
+( cmu_stack, 43, 33 )
+{ matching: 
+( cmu_stack, 406, 305 )
+{ out: 
+( stack_datastructure_wiki, 20, 17 )( stack_cprogramming, 270, 204 )( stack_cprogramming, 174, 132 )( stack_cprogramming, 168, 127 )( stack_oracle, 25, 24 )( stacks_and_queues, 100, 80 )( cmu_stack, 154, 121 )( cmu_stack, 132, 105 )( studytonight, 83, 57 )( geeks_quiz, 32, 26 )( geeks_quiz, 26, 21 )
+{ addition: 
+( stack_datastructure_wiki, 277, 210 )
+{ magazine: 
+( stackmagazine, 9, 8 )
+{ deleting: 
+( stacks_and_queues, 142, 114 )
+{ put: 
+( stackmagazine, 18, 17 )
+{ two: 
+( stack_datastructure_wiki, 34, 27 )( cmu_stack, 140, 112 )( auckland_stack, 17, 13 )( geeks_quiz, 179, 137 )
+{ capacity: 
+( stack_datastructure_wiki, 150, 114 )
+{ capacity: 
+( studytonight, 11, 8 )
+{ referred: 
+( stack_datastructure_wiki, 123, 93 )
+{ material: 
+( cmu_stack, 85, 67 )
+{ behavior: 
+( stack_cprogramming, 169, 128 )
+{ entrance: 
+( cmu_stack, 341, 251 )
+{ you: 
+( stack_cprogramming, 259, 196 )( stack_cprogramming, 204, 157 )( stacks_and_queues, 62, 49 )( cmu_stack, 368, 275 )( cmu_stack, 351, 259 )( cmu_stack, 346, 255 )( cmu_stack, 335, 247 )( cmu_stack, 313, 231 )( cmu_stack, 269, 197 )( cmu_stack, 215, 164 )( cmu_stack, 207, 157 )( cmu_stack, 95, 77 )( studytonight, 160, 115 )
+{ abstract: 
+( stack_datastructure_wiki, 23, 18 )( stack_datastructure_wiki, 2, 2 )( studytonight, 4, 2 )
+{ deletion: 
+( stacks_and_queues, 29, 23 )
+{ deletion: 
+( studytonight, 109, 76 )
+{ instance: 
+( stack_cprogramming, 31, 26 )
+{ enforces: 
+( stack_cprogramming, 102, 82 )
+{ separate: 
+( geeks_quiz, 259, 206 )
+{ consider: 
+( cmu_stack, 101, 82 )( geeks_quiz, 118, 89 )
+{ sequence: 
+( stack_datastructure_wiki, 90, 69 )
+{ complete: 
+( stack_oracle, 110, 87 )
+{ compiler: 
+( cmu_stack, 401, 301 )
+{ thinking: 
+( stacks_and_queues, 49, 40 )
+{ elements: 
+( stack_datastructure_wiki, 281, 213 )( stack_datastructure_wiki, 262, 200 )( stack_datastructure_wiki, 257, 196 )( stack_datastructure_wiki, 32, 25 )( stack_cprogramming, 121, 95 )( cmu_stack, 326, 241 )( cmu_stack, 166, 129 )( studytonight, 91, 64 )( studytonight, 23, 17 )
+{ provided: 
+( stack_oracle, 119, 93 )( stack_oracle, 54, 48 )
+{ physical: 
+( stacks_and_queues, 20, 17 )
+{ inserted: 
+( cmu_stack, 123, 98 )
+{ organize: 
+( stack_cprogramming, 214, 165 )
+{ discover: 
+( stack_oracle, 90, 71 )( stackmagazine, 5, 5 )
+{ contains: 
+( stack_oracle, 105, 82 )
+{ examples: 
+( geeks_quiz, 115, 87 )
+{ features: 
+( geeks_quiz, 202, 157 )
+{ directly: 
+( cmu_stack, 15, 13 )
+{ reversed: 
+( geeks_quiz, 78, 59 )
+{ possible: 
+( cmu_stack, 374, 280 )
+{ anything: 
+( auckland_stack, 64, 51 )
+{ unrolled: 
+( cmu_stack, 88, 70 )
+{ function: 
+( stack_datastructure_wiki, 453, 345 )( stack_cprogramming, 57, 48 )( stack_cprogramming, 51, 43 )( stack_cprogramming, 44, 37 )( stack_cprogramming, 37, 31 )( stack_cprogramming, 34, 28 )( stackoverflow, 34, 33 )( studytonight, 85, 59 )
+{ recently: 
+( auckland_stack, 38, 29 )
+{ removing: 
+( stack_datastructure_wiki, 405, 309 )( stack_cprogramming, 120, 94 )( studytonight, 22, 16 )( auckland_stack, 56, 44 )
+{ observes: 
+( stack_datastructure_wiki, 399, 304 )
+{ constant: 
+( cmu_stack, 18, 15 )
+{ proposed: 
+( stack_datastructure_wiki, 297, 225 )
+{ contents: 
+( stacks_and_queues, 152, 121 )
+{ extracts: 
+( auckland_stack, 35, 27 )
+{ computer: 
+( stack_datastructure_wiki, 302, 229 )( stack_datastructure_wiki, 11, 10 )( stack_cprogramming, 294, 226 )( stack_cprogramming, 256, 193 )
+{ moreover: 
+( stack_cprogramming, 284, 217 )
+{ simplest: 
+( cmu_stack, 259, 191 )( studytonight, 150, 109 )
+{ overflow: 
+( stack_datastructure_wiki, 178, 134 )( stackoverflow, 2, 2 )( studytonight, 126, 90 )( geeks_quiz, 63, 48 )
+{ position: 
+( geeks_quiz, 155, 118 )
+{ thoughts: 
+( stack_cprogramming, 216, 167 )
+{ browsers: 
+( geeks_quiz, 215, 169 )
+{ stacklighting: 
+( stacklighting, 1, 1 )
+{ pushdown: 
+( cmu_stack, 137, 109 )
+{ previous: 
+( cmu_stack, 360, 267 )
+{ independently: 
+( cmu_stack, 37, 29 )
+{ dead: 
+( cmu_stack, 349, 257 )
+{ lifo/filo: 
+( geeks_quiz, 174, 133 )
+{ each: 
+( stack_datastructure_wiki, 66, 52 )( stack_cprogramming, 80, 66 )( cmu_stack, 365, 272 )( cmu_stack, 61, 48 )( cmu_stack, 29, 23 )( cmu_stack, 10, 8 )
+{ back: 
+( stack_cprogramming, 53, 45 )
+{ idea: 
+( stack_cprogramming, 264, 200 )
+{ deal: 
+( stack_cprogramming, 196, 149 )
+{ data: 
+( stack_datastructure_wiki, 424, 322 )( stack_datastructure_wiki, 232, 177 )( stack_datastructure_wiki, 102, 78 )( stack_datastructure_wiki, 24, 19 )( stack_datastructure_wiki, 3, 3 )( stack_cprogramming, 114, 89 )( stack_cprogramming, 99, 79 )( stack_cprogramming, 17, 14 )( stack_cprogramming, 3, 3 )( stackoverflow, 14, 14 )( stacks_and_queues, 107, 86 )( stacks_and_queues, 52, 42 )( stacks_and_queues, 6, 4 )( cmu_stack, 320, 237 )( cmu_stack, 229, 174 )( cmu_stack, 164, 127 )( cmu_stack, 112, 91 )( cmu_stack, 106, 85 )( cmu_stack, 94, 76 )( cmu_stack, 58, 45 )( cmu_stack, 7, 5 )( studytonight, 73, 49 )( studytonight, 16, 11 )( studytonight, 5, 3 )( auckland_stack, 5, 4 )( geeks_quiz, 5, 3 )
+{ been: 
+( stack_datastructure_wiki, 286, 217 )
+{ been: 
+( geeks_quiz, 150, 114 )
+{ adds: 
+( stack_datastructure_wiki, 39, 32 )( cmu_stack, 180, 140 )( auckland_stack, 28, 22 )( geeks_quiz, 45, 36 )
+{ alan: 
+( stack_datastructure_wiki, 305, 231 )
+{ need: 
+( stack_cprogramming, 23, 19 )( cmu_stack, 314, 232 )
+{ call: 
+( stack_cprogramming, 225, 174 )
+{ page: 
+( cmu_stack, 30, 24 )
+{ fact: 
+( stack_datastructure_wiki, 61, 48 )( stack_cprogramming, 223, 173 )
+{ life: 
+( geeks_quiz, 114, 86 )
+{ said: 
+( stack_cprogramming, 162, 121 )( studytonight, 135, 96 )( studytonight, 122, 86 )( geeks_quiz, 93, 69 )( geeks_quiz, 59, 45 )
+{ find: 
+( cmu_stack, 336, 248 )
+{ free: 
+( stack_datastructure_wiki, 8, 7 )
+{ java: 
+( stack_oracle, 6, 6 )
+{ java: 
+( stackoverflow, 3, 3 )
+{ have: 
+( stack_datastructure_wiki, 451, 344 )( stack_datastructure_wiki, 328, 249 )( stack_datastructure_wiki, 285, 216 )( stack_datastructure_wiki, 258, 197 )( stack_datastructure_wiki, 147, 112 )( stack_cprogramming, 164, 123 )
+{ come: 
+( stack_cprogramming, 200, 153 )
+{ real: 
+( stacks_and_queues, 19, 16 )( geeks_quiz, 113, 85 )
+{ here: 
+( cmu_stack, 231, 176 )
+{ peek: 
+( stack_datastructure_wiki, 397, 302 )( stack_datastructure_wiki, 133, 99 )( stack_oracle, 61, 54 )( geeks_quiz, 99, 74 )
+{ bulb: 
+( stacklighting, 12, 12 )
+{ keep: 
+( stacklighting, 15, 15 )
+{ take: 
+( stacks_and_queues, 65, 52 )
+{ once: 
+( cmu_stack, 345, 254 )
+{ like: 
+( studytonight, 182, 133 )( studytonight, 61, 42 )
+{ like: 
+( geeks_quiz, 220, 174 )( geeks_quiz, 206, 161 )
+{ done: 
+( stack_datastructure_wiki, 414, 316 )
+{ same: 
+( stack_datastructure_wiki, 445, 338 )( stack_datastructure_wiki, 423, 321 )
+{ docs: 
+( stack_oracle, 4, 4 )
+{ home: 
+( stacklighting, 17, 17 )
+{ coin: 
+( auckland_stack, 77, 59 )
+{ lifo: 
+( stack_datastructure_wiki, 57, 45 )( stack_datastructure_wiki, 16, 13 )( stack_oracle, 115, 90 )( stack_oracle, 26, 25 )( stacks_and_queues, 96, 76 )( cmu_stack, 133, 106 )( studytonight, 78, 52 )( geeks_quiz, 22, 17 )
+{ concealed: 
+( stack_datastructure_wiki, 197, 149 )
+{ alex: 
+( stack_cprogramming, 10, 9 )
+{ five: 
+( stack_oracle, 35, 33 )
+{ self: 
+( stackoverflow, 32, 31 )
+{ cnet: 
+( stacklighting, 20, 20 )
+{ pile: 
+( stacks_and_queues, 23, 19 )( studytonight, 63, 43 )
+{ tape: 
+( cmu_stack, 82, 64 )
+{ filo: 
+( geeks_quiz, 28, 22 )
+{ redo: 
+( geeks_quiz, 200, 155 )
+{ give: 
+( stack_datastructure_wiki, 136, 102 )
+{ than: 
+( stack_datastructure_wiki, 386, 295 )
+{ than: 
+( stack_cprogramming, 59, 50 )
+{ seen: 
+( stack_cprogramming, 207, 160 )( geeks_quiz, 171, 130 )
+{ does: 
+( stackoverflow, 19, 19 )
+{ meet: 
+( stacklighting, 6, 6 )
+{ book: 
+( cmu_stack, 220, 168 )( cmu_stack, 213, 162 )( cmu_stack, 33, 25 )( cmu_stack, 28, 22 )
+{ balancing: 
+( geeks_quiz, 193, 149 )
+{ talk: 
+( stack_cprogramming, 277, 211 )
+{ maze: 
+( cmu_stack, 332, 244 )( geeks_quiz, 242, 194 )
+{ both: 
+( studytonight, 106, 74 )
+{ goes: 
+( stack_datastructure_wiki, 212, 160 )( stack_cprogramming, 133, 104 )( studytonight, 35, 26 )
+{ then: 
+( stack_datastructure_wiki, 172, 129 )( cmu_stack, 376, 282 )( cmu_stack, 280, 206 )( studytonight, 171, 124 )( geeks_quiz, 90, 67 )( geeks_quiz, 56, 43 )
+{ item: 
+( stack_datastructure_wiki, 185, 140 )( stack_cprogramming, 186, 141 )( stack_cprogramming, 177, 135 )( stack_oracle, 88, 70 )( stack_oracle, 65, 57 )( stacks_and_queues, 144, 115 )( stacks_and_queues, 136, 109 )( stacks_and_queues, 68, 54 )( cmu_stack, 192, 147 )( cmu_stack, 182, 141 )( cmu_stack, 153, 120 )( cmu_stack, 146, 116 )( auckland_stack, 51, 40 )( auckland_stack, 40, 31 )( auckland_stack, 30, 23 )( geeks_quiz, 103, 77 )( geeks_quiz, 68, 52 )( geeks_quiz, 47, 37 )
+{ also: 
+( stack_datastructure_wiki, 448, 341 )( stack_datastructure_wiki, 253, 192 )( stacks_and_queues, 93, 74 )( cmu_stack, 214, 163 )( studytonight, 181, 132 )
+{ time: 
+( stack_cprogramming, 127, 100 )( studytonight, 29, 22 )( geeks_quiz, 165, 124 )
+{ time: 
+( cmu_stack, 19, 16 )
+{ cafeteria: 
+( stack_datastructure_wiki, 341, 259 )
+{ tree: 
+( stackoverflow, 12, 12 )
+{ tree: 
+( geeks_quiz, 224, 177 )
+{ that: 
+( stack_datastructure_wiki, 284, 215 )( stack_datastructure_wiki, 255, 194 )( stack_datastructure_wiki, 97, 74 )( stack_datastructure_wiki, 84, 65 )( stack_datastructure_wiki, 62, 49 )( stack_datastructure_wiki, 52, 41 )( stack_datastructure_wiki, 26, 21 )( stack_cprogramming, 150, 115 )( stack_cprogramming, 143, 110 )( stack_cprogramming, 116, 91 )( stack_cprogramming, 48, 41 )( stack_cprogramming, 22, 18 )( stack_oracle, 37, 35 )( stackmagazine, 3, 3 )( stacks_and_queues, 125, 100 )( stacks_and_queues, 8, 6 )( cmu_stack, 121, 97 )( studytonight, 52, 37 )( studytonight, 45, 32 )( studytonight, 18, 13 )
+{ used: 
+( stack_datastructure_wiki, 309, 235 )( stack_oracle, 130, 102 )( stacks_and_queues, 82, 66 )( studytonight, 98, 68 )( studytonight, 87, 60 )( geeks_quiz, 216, 170 )
+{ used: 
+( stack_cprogramming, 230, 177 )
+{ when: 
+( stack_datastructure_wiki, 356, 271 )( stack_cprogramming, 258, 195 )( stack_cprogramming, 32, 27 )( stack_oracle, 98, 77 )( cmu_stack, 312, 230 )( studytonight, 128, 92 )
+{ open: 
+( cmu_stack, 36, 28 )
+{ backtrack: 
+( cmu_stack, 355, 263 )( cmu_stack, 353, 261 )
+{ span: 
+( geeks_quiz, 227, 180 )
+{ more: 
+( stack_datastructure_wiki, 384, 293 )( stack_datastructure_wiki, 105, 80 )( stack_oracle, 109, 86 )( studytonight, 195, 145 )
+{ full: 
+( stack_datastructure_wiki, 155, 117 )( studytonight, 132, 95 )( geeks_quiz, 55, 42 )
+{ such: 
+( stack_cprogramming, 297, 229 )( stack_cprogramming, 285, 218 )
+{ such: 
+( auckland_stack, 46, 36 )
+{ from: 
+( stack_datastructure_wiki, 407, 311 )( stack_datastructure_wiki, 361, 274 )( stack_datastructure_wiki, 322, 243 )( stack_datastructure_wiki, 265, 202 )( stack_datastructure_wiki, 186, 141 )( stack_datastructure_wiki, 59, 47 )( stack_datastructure_wiki, 5, 5 )( stack_cprogramming, 292, 224 )( stack_cprogramming, 188, 143 )( stack_oracle, 95, 75 )( stackoverflow, 15, 15 )( stacks_and_queues, 145, 116 )( stacks_and_queues, 77, 62 )( cmu_stack, 384, 289 )( cmu_stack, 339, 250 )( cmu_stack, 283, 209 )( cmu_stack, 193, 148 )( cmu_stack, 172, 134 )( studytonight, 174, 127 )( studytonight, 103, 72 )( auckland_stack, 41, 32 )( auckland_stack, 21, 17 )( geeks_quiz, 69, 53 )
+{ last: 
+( stack_datastructure_wiki, 80, 61 )( stack_datastructure_wiki, 50, 39 )( stack_datastructure_wiki, 17, 14 )( stack_oracle, 22, 21 )( stacks_and_queues, 97, 77 )( cmu_stack, 129, 102 )( studytonight, 80, 54 )( geeks_quiz, 31, 25 )( geeks_quiz, 23, 18 )
+{ last: 
+( stack_cprogramming, 269, 203 )( stack_cprogramming, 185, 140 )( stack_cprogramming, 171, 129 )( stack_cprogramming, 167, 126 )( stack_cprogramming, 83, 68 )
+{ what: 
+( stack_cprogramming, 192, 146 )
+{ well: 
+( stack_oracle, 56, 50 )
+{ many: 
+( stack_datastructure_wiki, 379, 289 )( cmu_stack, 45, 35 )( studytonight, 194, 144 )( geeks_quiz, 218, 172 )( geeks_quiz, 204, 159 )( geeks_quiz, 112, 84 )
+{ play: 
+( stack_cprogramming, 202, 155 )
+{ note: 
+( cmu_stack, 99, 80 )
+{ according: 
+( cmu_stack, 126, 100 )
+{ undo: 
+( cmu_stack, 290, 213 )
+{ undo: 
+( geeks_quiz, 201, 156 )
+{ part: 
+( stack_cprogramming, 250, 190 )
+{ pass: 
+( stackoverflow, 13, 13 )
+{ term: 
+( stack_datastructure_wiki, 325, 246 )( stack_datastructure_wiki, 56, 44 )( stack_cprogramming, 229, 176 )
+{ this: 
+( stack_datastructure_wiki, 91, 70 )( stacks_and_queues, 79, 64 )( cmu_stack, 308, 228 )
+{ down: 
+( stack_datastructure_wiki, 352, 267 )
+{ down: 
+( stack_cprogramming, 301, 232 )
+{ roll: 
+( cmu_stack, 78, 62 )
+{ into: 
+( stack_datastructure_wiki, 213, 161 )( stack_datastructure_wiki, 87, 67 )( stack_cprogramming, 201, 154 )( stacks_and_queues, 137, 110 )( cmu_stack, 147, 117 )( studytonight, 92, 65 )
+{ want: 
+( stack_cprogramming, 260, 197 )( cmu_stack, 96, 78 )
+{ json: 
+( stackoverflow, 8, 8 )
+{ they: 
+( stacks_and_queues, 131, 106 )
+{ exit: 
+( cmu_stack, 344, 253 )
+{ reference: 
+( stackoverflow, 37, 36 )( stackoverflow, 30, 29 )
+{ with: 
+( stack_datastructure_wiki, 421, 320 )( stack_datastructure_wiki, 415, 317 )( stack_datastructure_wiki, 33, 26 )( stack_oracle, 34, 32 )( studytonight, 7, 5 )( auckland_stack, 15, 11 )
+{ list: 
+( stack_cprogramming, 233, 178 )( studytonight, 70, 47 )( geeks_quiz, 189, 146 )
+{ list: 
+( cmu_stack, 53, 42 )
+{ word: 
+( cmu_stack, 273, 200 )( cmu_stack, 268, 196 )
+{ word: 
+( studytonight, 164, 118 )( studytonight, 159, 114 )
+{ over: 
+( geeks_quiz, 125, 94 )
+{ interface: 
+( stack_oracle, 123, 96 )
+{ util: 
+( stack_oracle, 7, 7 )
+{ undefined: 
+( stackoverflow, 36, 35 )( stackoverflow, 29, 28 )
+{ rest: 
+( cmu_stack, 252, 186 )
+{ next: 
+( cmu_stack, 382, 287 )
+{ push: 
+( stack_datastructure_wiki, 420, 319 )( stack_datastructure_wiki, 387, 296 )( stack_datastructure_wiki, 251, 190 )( stack_datastructure_wiki, 111, 84 )( stack_datastructure_wiki, 37, 30 )( stack_cprogramming, 300, 231 )( stack_oracle, 49, 45 )( stacks_and_queues, 140, 112 )( cmu_stack, 270, 198 )( cmu_stack, 179, 139 )( cmu_stack, 144, 115 )( studytonight, 161, 116 )( studytonight, 84, 58 )( auckland_stack, 27, 21 )( geeks_quiz, 44, 35 )
+{ test: 
+( stack_oracle, 72, 62 )
+{ basically: 
+( stacks_and_queues, 122, 97 )
+{ uses: 
+( studytonight, 180, 131 )
+{ onto: 
+( auckland_stack, 82, 63 )
+{ show: 
+( stack_cprogramming, 287, 220 )
+{ mechanism: 
+( cmu_stack, 291, 214 )
+{ type: 
+( stack_datastructure_wiki, 25, 20 )( stack_datastructure_wiki, 4, 4 )( studytonight, 74, 50 )( studytonight, 6, 4 )
+{ pops: 
+( stack_datastructure_wiki, 368, 279 )( stack_datastructure_wiki, 77, 60 )
+{ only: 
+( stack_datastructure_wiki, 235, 180 )( stack_datastructure_wiki, 116, 88 )( stack_cprogramming, 141, 108 )( stacks_and_queues, 64, 51 )( cmu_stack, 210, 160 )( cmu_stack, 175, 136 )( cmu_stack, 139, 111 )( cmu_stack, 66, 53 )( studytonight, 113, 79 )( studytonight, 43, 30 )( auckland_stack, 16, 12 )
+{ bury: 
+( stack_datastructure_wiki, 312, 237 )
+{ wikipedia: 
+( stack_datastructure_wiki, 6, 6 )
+{ most: 
+( stack_datastructure_wiki, 402, 306 )( stack_datastructure_wiki, 81, 62 )( cmu_stack, 318, 235 )( auckland_stack, 37, 28 )
+{ malformed: 
+( stackoverflow, 7, 7 )
+{ different: 
+( stackmagazine, 7, 6 )
+{ ways: 
+( geeks_quiz, 180, 138 )
+{ bloomberg: 
+( stacklighting, 22, 22 )
+{ text: 
+( cmu_stack, 302, 223 )( cmu_stack, 293, 216 )
+{ variables: 
+( cmu_stack, 394, 296 )
+{ just: 
+( stack_datastructure_wiki, 455, 347 )( stack_cprogramming, 273, 207 )( studytonight, 60, 41 )
+{ turn: 
+( stack_cprogramming, 40, 34 )
+{ including: 
+( stack_cprogramming, 305, 236 )
+{ must: 
+( cmu_stack, 352, 260 )( cmu_stack, 86, 68 )
+{ tour: 
+( geeks_quiz, 237, 190 )
+{ magazines: 
+( stackmagazine, 2, 2 )
+{ logically: 
+( stacks_and_queues, 11, 9 )
+{ principal: 
+( stack_datastructure_wiki, 35, 28 )
+{ subscribe: 
+( stackmagazine, 23, 21 )
+{ your: 
+( stacklighting, 16, 16 )( stacks_and_queues, 51, 41 )
+{ container: 
+( cmu_stack, 118, 95 )
+{ generally: 
+( auckland_stack, 13, 9 )
+{ performed: 
+( stack_datastructure_wiki, 242, 184 )( stacks_and_queues, 128, 103 )( geeks_quiz, 40, 32 )( geeks_quiz, 17, 12 )
+{ therefore: 
+( stack_datastructure_wiki, 278, 211 )
+{ therefore: 
+( cmu_stack, 363, 270 )
+{ principle: 
+( cmu_stack, 134, 107 )( auckland_stack, 18, 14 )
+{ condition: 
+( stack_datastructure_wiki, 431, 328 )( geeks_quiz, 98, 73 )( geeks_quiz, 64, 49 )
+{ essential: 
+( stack_datastructure_wiki, 428, 325 )( stack_datastructure_wiki, 376, 286 )
+{ implement: 
+( geeks_quiz, 182, 140 )
+{ executing: 
+( stack_cprogramming, 237, 181 )
+{ labyrinth: 
+( cmu_stack, 330, 243 )
+{ histogram: 
+( geeks_quiz, 229, 182 )
+{ operation: 
+( stack_datastructure_wiki, 438, 334 )( stack_datastructure_wiki, 182, 138 )( stack_datastructure_wiki, 134, 100 )( cmu_stack, 296, 218 )
+{ following: 
+( geeks_quiz, 35, 28 )
+{ inserting: 
+( stacks_and_queues, 134, 108 )
+{ underflow: 
+( stack_datastructure_wiki, 430, 327 )( stack_datastructure_wiki, 214, 162 )( studytonight, 139, 100 )( geeks_quiz, 97, 72 )
+{ postfix/prefix: 
+( geeks_quiz, 198, 153 )
+{ automaton: 
+( stack_cprogramming, 302, 233 )
+{ recursive: 
+( cmu_stack, 228, 173 )
+{ functions: 
+( stack_cprogramming, 242, 184 )( stack_cprogramming, 235, 179 )( stack_cprogramming, 219, 170 )( stack_cprogramming, 73, 60 )
+{ recursion: 
+( cmu_stack, 415, 312 )
+{ insertion: 
+( stacks_and_queues, 27, 22 )( studytonight, 107, 75 )
+{ consistes: 
+( cmu_stack, 246, 184 )
+{ returning: 
+( stack_datastructure_wiki, 321, 242 )
+{ important: 
+( stack_cprogramming, 47, 40 )
+{ photoshop: 
+( geeks_quiz, 208, 163 )
+{ added: 
+( stack_datastructure_wiki, 54, 42 )( stack_cprogramming, 178, 136 )( stack_cprogramming, 131, 102 )( stack_cprogramming, 85, 70 )( cmu_stack, 169, 132 )( studytonight, 33, 24 )
+
